@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(172, 165, 165);
+
+}
+
+h2{
+    color: rgb(2, 20, 18);
+    text-align: center;
+}
+
+pre{
+    background-color: rgb(14, 54, 233);
+    color: rgb(19, 2, 2);
+    font-size: 25px;
+}
